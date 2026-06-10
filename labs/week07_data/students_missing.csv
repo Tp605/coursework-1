@@ -1,0 +1,21 @@
+Name,Age,Course,Grade,Attendance,City,Scholarship
+Alice Johnson,19,Computer Science,,92,London,No
+Bob Smith,21,Data Science,85,,Manchester,Yes
+Charlie Brown,20,Computer Science,62,75,London,No
+Diana Prince,22,Mathematics,91,95,Birmingham,Yes
+Eve Wilson,,Data Science,73,80,London,No
+Frank Miller,23,Computer Science,55,60,Leeds,No
+Grace Lee,20,Mathematics,,90,Manchester,Yes
+Henry Davis,21,Physics,76,82,,No
+Iris Taylor,19,Computer Science,95,97,Birmingham,Yes
+Jack Anderson,22,,68,71,Manchester,No
+Kate Martin,20,Mathematics,82,,London,Yes
+Liam Jackson,21,Physics,71,78,Leeds,No
+Mia Harris,19,Computer Science,90,93,London,
+Noah White,23,Data Science,,84,Birmingham,No
+Olivia Lewis,20,Mathematics,87,91,Manchester,Yes
+Peter Clark,,Computer Science,65,70,London,No
+Quinn Robinson,22,Physics,83,86,Birmingham,Yes
+Rachel Walker,19,Data Science,77,,Leeds,No
+Sam Thompson,20,Computer Science,92,94,London,Yes
+Tina Martinez,21,Mathematics,69,76,Manchester,No
